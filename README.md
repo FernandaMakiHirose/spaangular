@@ -16,6 +16,7 @@ Ver a versão do Angular:
 
 Criar um projeto:
 >ng new spaangular --prefix=spa <br>
+
 Would you like to add Angular Routing? Yes <br>
 Which stylesheet format would you like to use? CSS
 
