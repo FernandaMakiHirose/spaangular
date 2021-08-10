@@ -1,3 +1,6 @@
+# Desenvolvendo SPA com Angular
+Neste projeto criei um cadastro de alunos com Nome, Idade, E-mail e Curso, onde é possível mudar, reiniciar e exibir a tabela.
+
 ## Pré-requisitos 
 - Angular
 - Node.js
