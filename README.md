@@ -28,3 +28,9 @@ Gerar um componente:
 
 ## Dica 
 O comando `CTRL + K + S` mostra todos os atalhos no Visual Studio Code.
+
+## Entendendo o código
+`app-routing.module.ts`: Adicionei das rotas do projeto.
+`app.component.html`: Temos o `<router-outlet></router-outlet>` que mostra os componentes.
+`app.module.ts`: Importei o `MatToolbarModule`, `MatIconModule`.
+`home.component.html`: Apresenta o Toolbar importado do Angular Material.
