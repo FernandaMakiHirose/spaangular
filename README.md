@@ -4,6 +4,16 @@
 - Java
 - IDE
 
+## Após clonar o projeto
+Na raiz do projeto:
+>npm install
+
+Para executar o projeto:
+>ng serve
+
+Abra seu navegador nesse link:
+>http://localhost:4200/
+
 ## Comandos
 Ver a versão do Node.js:
 >node -v
