@@ -34,3 +34,16 @@ O comando `CTRL + K + S` mostra todos os atalhos no Visual Studio Code.
 `app.component.html`: Temos o `<router-outlet></router-outlet>` que mostra os componentes. <br>
 `app.module.ts`: Importei o `MatToolbarModule`, `MatIconModule`. <br>
 `home.component.html`: Apresenta o Toolbar importado do Angular Material. <br>
+
+## Conteúdo bônus
+### Interpolação: {{ valor }}
+Associa informação do componente para o template (HTML).
+
+### Property Binding: [propriedade]="valor"
+Associa informação do componente para o template (HTML).
+
+### Event Binding: (evento)="handler"
+Associa informação do template (HTML) para o componente.
+
+### Two-Way Data Binding: [(ngModel)]="propriedade"
+Associa informação entre ambos, ou seja, mantém ambos atualizados (componente e template (HTML)).
