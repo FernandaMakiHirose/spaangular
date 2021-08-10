@@ -22,3 +22,9 @@ Which stylesheet format would you like to use? CSS
 
 Iniciar o servidor:
 >ng serve -o
+
+Gerar um componente:
+>ng g c exemplo
+
+## Dica 
+O comando `CTRL + K + S` mostra todos os atalhos no Visual Studio Code.
